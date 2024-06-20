@@ -1,7 +1,7 @@
 <h2>Job Finder</h2>
 
 <p>Job Finder is an application developed as my final project in a Udemy course.
-The main focus was to create and review It job roles, which where store in a database.</p>
+The main focus was to create and review IT Job roles, which where store in a database.</p>
 
 <h3>Packages</h3>
 <ul>
