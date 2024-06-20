@@ -1,0 +1,27 @@
+{
+  "name": "jobfinder",
+  "version": "1.0.0",
+  "description": "Este sistema é um portal para os programadores encontrarem vagas de trabalho.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "dev",
+    "jobs",
+    "dev",
+    "opportunity"
+  ],
+  "author": "João Nuno",
+  "license": "UDEMY",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
